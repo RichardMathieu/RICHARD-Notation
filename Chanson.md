@@ -1,6 +1,6 @@
 ﻿**La danse des canards**
 
-'C'est la danse des canards
+```C'est la danse des canards
 Qui en sortant de la mare
 Se secouent le bas des reins
 Et font coin-coin
@@ -70,4 +70,4 @@ Ne soyez pas en retard
 Car c'est la danse des canards
 C'est le tube de demain
 Coin-coin coin-coin
-(Et c'est la fin)'
+(Et c'est la fin)```
