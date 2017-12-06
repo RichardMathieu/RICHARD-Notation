@@ -1,0 +1,1 @@
+* [Hobbies](https://github.com/RichardMathieu/RICHARD-Notation/blob/master/Hobbies.md)
